@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "Pembaruan otomatis Display Antrean versi 0.1.8",
-  "pub_date": "2026-05-30T11:51:48Z",
+  "version": "0.1.9",
+  "notes": "Pembaruan otomatis Display Antrean versi 0.1.9",
+  "pub_date": "2026-05-30T12:16:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0IyR2R5U1NxcXl4c29aNDUvbHhLdlBLQ2pHN1R3eFhWSkFlWXlWMHhjd3dhdnVzQWhSRE5sRFdNazc2Y3pmU2NHbEhncy9KaERsbmNkbFphT3BvNnBab0RWRzBXeEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTQxODk5CWZpbGU6RGlzcGxheSBBbnRyZWFuXzAuMS44X3g2NC1zZXR1cC5leGUKdVcxY2M2dGVwcWU2K2puS1V0RXM2dzZLT3lRU0FFMVI2K281dGIyMlBiOWY4Z2tYT1cyRU1Wanh5bExTRWlEMUk0NnVLdXg2MWlCcHF6c05paTg3Q0E9PQo=",
-      "url": "https://github.com/marchikhsan/new-display-release/releases/download/v0.1.8/Display.Antrean_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0IyR2R5U1NxcTBvKzBMVVhodkszbXJZRHA3aWZNd2FidmVid3IyUDZUcEovZkRUODJkMHYwaklXVjd6dnE0Vk9qdTB1NjFpRTlLY1FIeHZtOHBGZUhGMS83dUF0eWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTQzMzgwCWZpbGU6RGlzcGxheSBBbnRyZWFuXzAuMS45X3g2NC1zZXR1cC5leGUKTzhPVVk0WTdXRjhzRU5xY09SL0EyVER5bnVzWlRhQ3M4YXRvbHVQZGpCSE1TWUw0bTkvY050T3VlTS9ZR1NIbUtnTnAwS2x2U3pwczAybW1LdnlKQWc9PQo=",
+      "url": "https://github.com/marchikhsan/new-display-release/releases/download/v0.1.9/Display.Antrean_0.1.9_x64-setup.exe"
     }
   }
 }
